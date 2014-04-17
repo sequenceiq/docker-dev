@@ -1,4 +1,4 @@
-# Create a SequenceIQ base image
+# Create a SequenceIQ development base image
 #
 # docker build -t sequenceiq/dev .
 
