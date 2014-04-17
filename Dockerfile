@@ -1,6 +1,6 @@
 # Create a SequenceIQ base image
 #
-# docker build -t sequenceiq/base .
+# docker build -t sequenceiq/dev .
 
 FROM tianon/centos
 MAINTAINER SequenceIQ
