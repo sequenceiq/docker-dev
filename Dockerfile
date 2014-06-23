@@ -2,7 +2,7 @@
 #
 # docker build -t sequenceiq/dev-docker .
 
-FROM tianon/centos
+FROM tianon/centos:6.5
 MAINTAINER SequenceIQ
 
 USER root
