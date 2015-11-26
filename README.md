@@ -5,7 +5,7 @@ Development docker image with preinstalled hammers and screwdrivers.
 
 To run container use the commend below:
 ```
-docker run --rm --net=host --pid=host -it sequenceiq/dev-docker
+docker run --rm --net=host --pid=host -it sequenceiq/centos-dev
 ```
 
 Monitoring tools:
